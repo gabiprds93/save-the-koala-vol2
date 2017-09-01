@@ -1,0 +1,180 @@
+/*
+wood brown: A89F68;
+army green: 41521F;
+*/
+.text-color-wood
+{
+    color: #A89F68;
+}
+.text-color-army
+{
+    color: #41521F;
+}
+header
+{
+    position: relative;
+    padding: 84px 8% 80px;
+    background-image: url(../img/portada.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    height: 600px;
+}
+header nav
+{
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 70px;
+}
+header nav h4
+{
+    margin: 30px;
+}
+header nav ul
+{
+    line-height: 70px;
+    text-align: right;
+    padding-top: 0;
+    padding-right: 80px;
+}
+nav ul li a
+{
+    color: white;
+}
+header .action
+{
+    text-align: left;
+    width: 30%;
+    height: 30%;
+    float: left;
+    margin-top: 15%;
+}
+header .action h1
+{
+    font-size: 2em;
+    font-weight: bold;
+}
+.action .btn
+{
+    color: white;
+    margin-top: 15px;
+    background-color: #41521F;
+}
+.info
+{
+    padding: 20% 0;
+}
+.help
+{
+    color: white;
+    background-color: #A89F68;
+}
+.help .btn
+{
+    color: white;
+    margin-top: 15px;
+    background-color: #41521F;
+}
+.help .container
+{
+    padding: 7% 0;
+}
+.help img
+{
+    border: 10px solid white;
+    padding: 0;
+}
+.help .modal
+{
+    color: black;
+}
+.koala
+{
+    background-image: url(../img/all.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    height: 750px;
+}    
+.koala div
+{
+    padding: 4% 0;
+}
+.container .servicio
+{
+    padding: 0 0 20%;
+}
+.servicio h3
+{
+    font-weight: bold;
+    letter-spacing: 2px;
+    padding: 5%;
+}
+.servicio i
+{
+    color: #A89F68;
+    font-size: 5em;
+    margin-bottom: 15px;
+}
+#myCarousel
+{
+    margin-bottom: 20%;
+}
+.pago
+{
+    padding: 5%;
+    background-color: #A89F68;
+}
+.pago h3
+{
+    font-weight: bold;
+    margin: 3%;
+}
+.pago .label
+{
+    font-size: 18px;
+    color: white;
+}
+.pago .dolar
+{
+    vertical-align: top;
+}
+.pago .price
+{
+    font-size: 90px;
+}
+.pago .btn
+{
+    color: white;
+    margin-top: 15px;
+    background-color: #41521F;
+    text-transform: uppercase;
+}
+#demo
+{
+    color: white;
+    margin: 10%;
+    background-color: #41521F;
+}
+footer
+{
+    padding: 5%;
+    color: #A89F68;
+    background-color: #41521F;
+}
+footer p
+{
+    color: white;
+}
+footer a
+{
+    color: #A89F68;
+}
+footer .lista
+{
+    list-style: none;
+}
